@@ -14,4 +14,3 @@ class TestCalculator:
 
     def test_division(self):
         assert 12 == calculator.division(24, 2)
-        
